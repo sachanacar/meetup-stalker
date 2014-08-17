@@ -1,0 +1,115 @@
+
+    body {
+        color: #333;
+        font-family: jaf-bernino-sans, 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+    }
+    .pull-right{
+        float: right;
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        margin-top: 2em;
+        font-weight: 100;
+        color: #666;
+    }
+    #event {
+        margin: 0 auto;
+        max-width: 600px;
+        padding: 1em;
+        box-shadow: 0px 0px 1px #333;
+        border:1px solid #eee;
+        border-radius: 4px;
+    }
+#header ul, #map ul, #footer ul {
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#header ul li, #map ul li, #footer ul li  {
+    display: inline;
+    float: left;
+}
+
+.card-name{
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.card-name a{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none solid rgba(0, 0, 0, 0.8);
+}
+.card-description{
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+#header{
+
+}
+#group-event-info{
+    margin-top: 35px;
+}
+#group-name #event-url{
+    color: #c0362c;
+}
+#comers{
+    border: 3px solid #c0362c;
+    background-color: #c0362c;
+    border-radius: 50%;
+    padding: 0.8em;
+    -webkit-font-smoothing: antialiased;
+    float: right !important;
+
+}
+
+#comers h3, #comers p{
+    color: #fff;
+}
+#map{
+    min-height: 150px;
+    width: 100%;
+/*    overflow: hidden;
+*/}
+#map img{
+    min-height: 150px;
+    width: 100%;
+}
+#footer{
+    overflow: hidden;
+}
+#event-venue{
+    font-weight: 100;
+}
+hr{
+    border: none;
+    border-bottom: 1px solid #eee;
+}
+
+#footer span{
+  margin-top: 10px;
+  font-size: 12px;
+  color: #c0362c;
+  float: right;
+}
+#footer span a{
+  font-size: 12px;
+  color: #c0362c;
+}
