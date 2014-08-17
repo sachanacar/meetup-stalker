@@ -1,7 +1,7 @@
 Meetup Stalker
 =============
 
-Quick and easy set up for a "Where to Find Me Next" module.
+Quick and easy set up for a "Where to Find Me Next" module - which is essentially showing information about the upcoming meetup event you RSVP'd Yes to.
 
 Uses Meetup API and Google Static Maps.
 
