@@ -7,4 +7,4 @@ Uses Meetup API and Google Static Maps.
 
 To get up and running quickly just add your key in the key variable within meetup.js
 
-Demo available here: http://betac.at/about/
+Demo available here: http://betac.at/
